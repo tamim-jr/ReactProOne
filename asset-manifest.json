@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ReactProOne/static/css/main.073c9b0a.css",
+    "main.js": "/ReactProOne/static/js/main.8378b578.js",
+    "static/js/787.a8c679fd.chunk.js": "/ReactProOne/static/js/787.a8c679fd.chunk.js",
+    "static/media/logo.svg": "/ReactProOne/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/ReactProOne/index.html",
+    "main.073c9b0a.css.map": "/ReactProOne/static/css/main.073c9b0a.css.map",
+    "main.8378b578.js.map": "/ReactProOne/static/js/main.8378b578.js.map",
+    "787.a8c679fd.chunk.js.map": "/ReactProOne/static/js/787.a8c679fd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.8378b578.js"
+  ]
+}
